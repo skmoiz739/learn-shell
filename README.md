@@ -1,2 +1,2 @@
 # learn-shell now
-n
+ny
