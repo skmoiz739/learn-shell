@@ -1,2 +1,0 @@
-# learn-shell now
-ny
